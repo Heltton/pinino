@@ -1,4 +1,4 @@
 pinino
 ======
 
-Este repositorio es un ejemplo para conocer GitHub
+Este repositorio es un ejemplo para conocer GitHub.
